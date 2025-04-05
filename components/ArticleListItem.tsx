@@ -1,12 +1,13 @@
-import Link from "next/link"
-import type { ArticleItem } from "@/types"
+import Link from 'next/link';
+import type { ArticleItem } from '@/types';
 
 interface Props {
-  category: string
-  articles: ArticleItem[]
+  category: string;
+  articles: ArticleItem[];
 }
 
 const ArticleItemList = ({ category, articles }: Props) => {
+  // return console.log(articles);
   return (
     <div className="flex flex-col gap-5">
       <h2 className="font-cormorantGaramond text-4xl">{category}</h2>
@@ -22,7 +23,7 @@ const ArticleItemList = ({ category, articles }: Props) => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default ArticleItemList
+export default ArticleItemList;
