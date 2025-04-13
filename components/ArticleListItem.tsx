@@ -7,7 +7,6 @@ interface Props {
 }
 
 const ArticleItemList = ({ category, articles }: Props) => {
-  // return console.log(articles);
   return (
     <div className="flex flex-col gap-5">
       <h2 className="font-cormorantGaramond text-4xl">{category}</h2>

@@ -1,5 +1,5 @@
 import ArticleItemList from '@/components/ArticleListItem';
-// import Navbar from '@/components/Navbar';
+import { NavbarComponent } from '@/components/NavbarComponent';
 import { getCategorisedArticles } from '@/lib/articles';
 
 const HomePage = () => {
@@ -11,7 +11,7 @@ const HomePage = () => {
       {/* <header className="font-cormorantGaramond font-light text-6xl text-neutral-900 text-center">
 
       </header> */}
-      {/* <Navbar /> */}
+      <NavbarComponent />
       <section className="md:grid md:grid-cols-2 flex flex-col gap-10">
         {articles !== null &&
           Object.keys(articles).map((article) => (

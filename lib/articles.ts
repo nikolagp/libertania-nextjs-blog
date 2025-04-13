@@ -25,6 +25,7 @@ const getSortedArticles = (): ArticleItem[] => {
       title: matterResult.data.title,
       date: matterResult.data.date,
       category: matterResult.data.category,
+      author: matterResult.data.author,
     };
   });
 
@@ -73,6 +74,7 @@ export const getArticleData = async (id: string): Promise<any> => {
     title: matterResult.data.title,
     date: moment(matterResult.data.date, 'DD-MM-YYYY').format('MMMM Do YYYY'),
     category: matterResult.data.category,
+    author: matterResult.data.author,
 
     // ...matterResult.data,
   };
