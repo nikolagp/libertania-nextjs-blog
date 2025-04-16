@@ -1,7 +1,7 @@
 ---
 title: 'Академски анархизам'
 date: 2022-05-27
-category:
+categories:
   - 'tekstovi'
 coverImage: 'anarchism-academic.jpg'
 author: 'Никола Љ. Илиевски'
