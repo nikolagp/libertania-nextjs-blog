@@ -1,17 +1,18 @@
 ---
-title: "Зошто интелектуалците се против капитализмот?"
-date: 2021-09-15
-categories: 
-  - "блог"
-  - "prevodi"
-tags: 
-  - "интелектуалци"
-  - "капитализам"
-  - "левица"
-  - "општество"
-  - "пазарно"
-  - "распределба"
-  - "социјализам"
+title: Зошто интелектуалците се против капитализмот?
+date: 2021-09-15T00:00:00.000Z
+categories:
+  - блог
+  - prevodi
+tags:
+  - интелектуалци
+  - капитализам
+  - левица
+  - општество
+  - пазарно
+  - распределба
+  - социјализам
+author: Default Author
 ---
 
 Превод на [_Why Do Intellectuals Oppose Capitalism_](https://www.cato.org/sites/cato.org/files/serials/files/policy-report/1998/1/cpr-20n1-1.pdf)_?_,  

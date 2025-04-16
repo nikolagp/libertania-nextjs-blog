@@ -1,16 +1,19 @@
 ---
-title: "Индивидуализам и трансцендентализам: Хенри Дејвид Торо и уметноста на непослушноста"
-date: 2020-07-12
-categories: 
-  - "блог"
-tags: 
-  - "аболицизам"
-  - "анархизам"
-  - "индивидуализам"
-  - "класичен-либерализам"
-  - "либертаријанизам"
-  - "пацифизам"
-  - "хенри-дејвид-торо"
+title: >-
+  Индивидуализам и трансцендентализам: Хенри Дејвид Торо и уметноста на
+  непослушноста
+date: 2020-07-12T00:00:00.000Z
+categories:
+  - блог
+tags:
+  - аболицизам
+  - анархизам
+  - индивидуализам
+  - класичен-либерализам
+  - либертаријанизам
+  - пацифизам
+  - хенри-дејвид-торо
+author: Default Author
 ---
 
 _“There will never be a really free and enlightened state until the state comes to recognize the individual as a higher and independent power, from which all its own power and authority are derived.”_

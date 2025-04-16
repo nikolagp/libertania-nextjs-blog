@@ -1,7 +1,8 @@
 ---
-title: "The Merchant of Venice"
-category: "books"
-date: "02-04-2023"
+title: The Merchant of Venice
+category: books
+date: 02-04-2023
+author: Default Author
 ---
 
 # The Merchant of Venice

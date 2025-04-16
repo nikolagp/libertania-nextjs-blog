@@ -1,10 +1,10 @@
 ---
-title: 'Академски анархизам'
-date: 2022-05-27
+title: Академски анархизам
+date: 2022-05-27T00:00:00.000Z
 categories:
-  - 'tekstovi'
-coverImage: 'anarchism-academic.jpg'
-author: 'Никола Љ. Илиевски'
+  - tekstovi
+coverImage: anarchism-academic.jpg
+author: Никола Љ. Илиевски
 ---
 
 ## Aнархизам и наука?

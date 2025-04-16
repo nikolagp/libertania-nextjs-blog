@@ -1,9 +1,10 @@
 ---
-title: "Лидерски атлас на Школата за објективизам Џон Галт"
-date: 2019-12-03
-categories: 
-  - "блог"
-  - "novosti"
+title: Лидерски атлас на Школата за објективизам Џон Галт
+date: 2019-12-03T00:00:00.000Z
+categories:
+  - блог
+  - novosti
+author: Default Author
 ---
 
 ![](http://libertaniabackup.local/wp-content/uploads/2019/12/IMG_9999-1-1024x683.jpg)

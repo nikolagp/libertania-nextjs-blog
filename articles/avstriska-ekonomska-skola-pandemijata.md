@@ -1,18 +1,19 @@
 ---
-title: "Австриската економска школа и COVID-19 пандемијата"
-date: 2021-05-21
-categories: 
-  - "slobodari"
-tags: 
-  - "автриска-економска-школа"
-  - "економија"
-  - "инфлација"
-  - "јозеф-шима"
-  - "ковид-19"
-  - "сигурност"
-  - "слобода"
-  - "федерико-фернандез"
-  - "џефри-такер"
+title: Австриската економска школа и COVID-19 пандемијата
+date: 2021-05-21T00:00:00.000Z
+categories:
+  - slobodari
+tags:
+  - автриска-економска-школа
+  - економија
+  - инфлација
+  - јозеф-шима
+  - ковид-19
+  - сигурност
+  - слобода
+  - федерико-фернандез
+  - џефри-такер
+author: Default Author
 ---
 
 На 20.05.2021 во организација на [Студенти за слобода](http://studentsforliberty.org/) беше одржан вебинар на тема „Одговорите на Австриската школа за COVID-19 пандемијата“. Гости на вебинарот беа Федерико Фернандез, Јозеф Шима и Џефри Такер. Федерико е претседател на [Fundation International Bases](https://fundacionbases.org/) и виш научен соработник во [Austrian Economics Center](https://www.austriancenter.com/covid-war-children/). Јозеф е професор по економија на [CEVRO Institut](https://www.cevroinstitut.cz/en/), приватен универзитет во Прага во чиј фокус е класичниот либерализам и Австриската економска школа. Џеф е главен уредник во [American Institute for Economic Research](https://www.aier.org/), а модератор беше Симон Саревски од Либертаниа и  [Austrian Economics Center](https://www.austriancenter.com/covid-war-children/).

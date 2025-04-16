@@ -1,9 +1,10 @@
 ---
-title: "Студенти за слобода"
-date: 2020-07-27
-categories: 
-  - "блог"
-  - "novosti"
+title: Студенти за слобода
+date: 2020-07-27T00:00:00.000Z
+categories:
+  - блог
+  - novosti
+author: Default Author
 ---
 
 Студенти за слобода ([Students for Liberty](https://studentsforliberty.org/europe)) е најголемата слободарска или либертаријанска студентска организација во светот, по број на лидери, земји од кои доаѓаат и организирани настани. 

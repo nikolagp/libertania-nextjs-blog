@@ -1,9 +1,10 @@
 ---
-title: "Човечко општество (I дел) - Лудвиг фон Мизес"
-date: 2022-01-27
-categories: 
-  - "блог"
-  - "prevodi"
+title: Човечко општество (I дел) - Лудвиг фон Мизес
+date: 2022-01-27T00:00:00.000Z
+categories:
+  - блог
+  - prevodi
+author: Default Author
 ---
 
 Текстот е превод на дел од [Ludwig von Mises - Human Action](https://mises.org/library/human-action-0)
