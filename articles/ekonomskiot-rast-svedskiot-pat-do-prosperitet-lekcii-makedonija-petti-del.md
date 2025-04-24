@@ -1,8 +1,6 @@
 ---
 title: Нееднаквост и општествени норми
 date: 2020-12-07T00:00:00.000Z
-categories:
-  - блог
 tags:
   - класичен-либерализам
   - нееднаквост-2
@@ -11,6 +9,7 @@ tags:
   - шведска
 author: Default Author
 coverImage: Sime-pic.jpg
+category: uncategorized
 ---
 
 ## Eкономскиот раст, шведскиот пат до просперитет и лекции за Македонија

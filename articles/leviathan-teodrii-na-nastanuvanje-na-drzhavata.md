@@ -1,10 +1,9 @@
 ---
 title: ЛЕВИЈАТАН ИЛИ?  - ТЕОРИИ НА НАСТАНУВАЊЕ НА ДРЖАВА
 date: 2020-09-16T00:00:00.000Z
-categories:
-  - блог
 author: Default Author
 coverImage: Nikola-Lj-pic-150x150.jpg
+category: uncategorized
 ---
 
 ## **1\. Феномен на држава** 

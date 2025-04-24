@@ -1,8 +1,6 @@
 ---
 title: Како државата ги надминува ограничувањата
 date: 2020-10-12T00:00:00.000Z
-categories:
-  - блог
 tags:
   - анархизам
   - анархо-капитализам
@@ -17,6 +15,7 @@ tags:
   - суд
 author: Default Author
 coverImage: Nikola-Lj-pic-150x150.jpg
+category: uncategorized
 ---
 
 ## **Мaреј Ротбард - Анатомија на државата**

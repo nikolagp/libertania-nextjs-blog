@@ -1,8 +1,6 @@
 ---
 title: Либералните вредности во пракса
 date: 2020-08-12T00:00:00.000Z
-categories:
-  - блог
 tags:
   - класичен-либерализам
   - либерализација
@@ -11,6 +9,7 @@ tags:
   - шведска
 author: Default Author
 coverImage: Sime-pic-150x150.jpg
+category: uncategorized
 ---
 
 ## Eкономскиот раст, шведскиот пат до просперитет и лекции за Македонија

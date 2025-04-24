@@ -1,9 +1,6 @@
 ---
 title: Анархизам капиталистички
 date: 2022-05-05T00:00:00.000Z
-categories:
-  - блог
-  - tekstovi
 tags:
   - анархизам
   - анархија
@@ -16,6 +13,7 @@ tags:
   - хопе
 author: Default Author
 coverImage: Uj_9AfI-_400x400.jpg
+category: текстови
 ---
 
 ## Оксиморон?

@@ -1,9 +1,6 @@
 ---
 title: 'Интервју со Адам Барта: Брегзит, ЕУ и предизвиците со COVID-19'
 date: 2020-04-27T00:00:00.000Z
-categories:
-  - блог
-  - razgovori
 tags:
   - адам-барта
   - борис-џонсон
@@ -13,6 +10,7 @@ tags:
   - роналд-реган
 author: Default Author
 coverImage: Brexit_GB-EU_flag.jpg
+category: разговори
 ---
 
 ## Прв дел

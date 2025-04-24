@@ -3,8 +3,6 @@ title: >-
   Free Market Road Show, Skopje 2021 - Пазарите и владите во пост-пандемската
   ера
 date: 2021-05-10T00:00:00.000Z
-categories:
-  - novosti
 tags:
   - fmrs
   - free-market-road-show-skopje
@@ -13,6 +11,7 @@ tags:
   - слобода
   - слободен-пазар
 author: Default Author
+category: новости
 ---
 
 Од 2008-та година Austrian Economics Center го организира Free Market Road Show, настан кој има за цел да ги доближи до пошироката јавност идеите на класичниот либереализам и слободата. Поради пандемијата оваа година [Free Market Road Show - Skopje](https://freemarket-rs.com/event/fmrs-skopje/) ќе се одржи онлајн на 10.05.2021 во 1p.m. и можете да го следите на [Facebook](https://www.facebook.com/FreeMarketRoadShow) и [YouTube](https://www.youtube.com/channel/UCMGmDfvTVp0sDSQPK7CcwsA). 

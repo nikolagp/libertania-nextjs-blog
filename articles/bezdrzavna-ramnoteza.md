@@ -1,9 +1,6 @@
 ---
 title: Бездржавна рамнотежа - Предраг Рајшиќ
 date: 2021-12-30T00:00:00.000Z
-categories:
-  - блог
-  - prevodi
 tags:
   - анархија
   - бездржавно
@@ -12,6 +9,7 @@ tags:
   - општество
   - слобода
 author: Default Author
+category: преводи
 ---
 
 Текстот е превод на [Predrag Rajšić - Bezdržavni ekvilibrijum](http://katalaksija.com/2013/03/23/bezdrzavni-ekvilibrijum/)

@@ -1,9 +1,8 @@
 ---
 title: Трагедијата на државата на благосостојба
 date: 2020-04-12T00:00:00.000Z
-categories:
-  - блог
 author: Default Author
+category: uncategorized
 ---
 
 ## **Државата на благосостојба и по неа**

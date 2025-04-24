@@ -1,8 +1,6 @@
 ---
 title: 'ДРЖАВА ИЛИ? ДЕКОНСТРУКЦИЈА, КРИТИКА И АЛТЕРНАТИВА НА ДРЖАВА'
 date: 2020-08-03T00:00:00.000Z
-categories:
-  - блог
 tags:
   - анархизам
   - бездржавие
@@ -12,6 +10,7 @@ tags:
   - спонтан-поредок
 author: Default Author
 coverImage: Nikola-Lj-pic-150x150.jpg
+category: uncategorized
 ---
 
 ## **ДЕЛ 1: СТАП ИЛИ? - ПРИСТАПИ КОН РЕД И ПОРЕДОК**  

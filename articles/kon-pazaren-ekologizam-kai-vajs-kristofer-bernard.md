@@ -1,8 +1,6 @@
 ---
 title: 'Кон пазарен екологизам: Разговор со Каи Вајс и Кристофер Бернард'
 date: 2020-09-28T00:00:00.000Z
-categories:
-  - блог
 tags:
   - данок-на-јаглерод-диоксид
   - екологизам
@@ -13,6 +11,7 @@ tags:
   - слободен-пазар
 author: Default Author
 coverImage: Sime-pic-150x150.jpg
+category: uncategorized
 ---
 
 ![](http://libertaniabackup.local/wp-content/uploads/2020/09/kai-weiss-1-150x150.jpg)

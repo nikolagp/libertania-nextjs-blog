@@ -1,8 +1,6 @@
 ---
 title: Користeњето на знаење во општеството
 date: 2020-10-08T00:00:00.000Z
-categories:
-  - блог
 tags:
   - економија
   - знаење
@@ -13,6 +11,7 @@ tags:
   - хајек
 author: Default Author
 coverImage: ilija_vasiljevski.png
+category: uncategorized
 ---
 
 **Патешествие низ најважните трудови на проф. д-р Фридрих Август фон Хајек**  

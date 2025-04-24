@@ -1,9 +1,6 @@
 ---
 title: Слободарство во ХХ век - дел 2
 date: 2022-08-24T00:00:00.000Z
-categories:
-  - блог
-  - tekstovi
 tags:
   - историја
   - класичен-либерализам
@@ -14,6 +11,7 @@ tags:
   - ротбард
   - слободарство
 author: Default Author
+category: текстови
 ---
 
 _Cлободарство пред ХIХ век_, може да го прочитате [тука](http://libertaniabackup.local/slobodarstvo-pred-xix-vek/).

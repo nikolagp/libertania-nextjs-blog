@@ -1,8 +1,6 @@
 ---
 title: Економијата и знаењето
 date: 2020-09-11T00:00:00.000Z
-categories:
-  - блог
 tags:
   - економија
   - знаење
@@ -12,6 +10,7 @@ tags:
   - хајек
 author: Default Author
 coverImage: ilija_vasiljevski.png
+category: uncategorized
 ---
 
 ## **СЕРИЈАЛ: Патешествие низ најважните трудови на проф. д-р Фридрих Август фон Хајек**

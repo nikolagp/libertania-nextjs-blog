@@ -1,12 +1,10 @@
 ---
 title: 'Анатомија на државата: Што државата не е'
 date: 2020-03-29T00:00:00.000Z
-categories:
-  - блог
-  - prevodi
 author: Default Author
 coverImage: >-
   murray_rothbard.jpg?anchor=center&mode=crop&height=466&widthratio=2.0171673819742489270386266094&rnd=131672371480000000
+category: преводи
 ---
 
 ## Глава I: Што државата не е

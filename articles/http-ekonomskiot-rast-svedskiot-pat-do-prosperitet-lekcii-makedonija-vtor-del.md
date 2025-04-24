@@ -1,11 +1,9 @@
 ---
 title: Шведскиот Адам Смит - Андерс Чидениус
 date: 2020-05-07T00:00:00.000Z
-categories:
-  - блог
-  - slobodari
 author: Default Author
 coverImage: anders_chydenius.jpg
+category: слободари
 ---
 
 ## Eкономскиот раст, шведскиот пат до просперитет и лекции за Македонија

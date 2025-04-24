@@ -1,9 +1,8 @@
 ---
 title: ЗА слобода на конопот
 date: 2021-04-20T00:00:00.000Z
-categories:
-  - tekstovi
 author: Default Author
+category: текстови
 ---
 
 ## **Посебен правен статус на конопот**

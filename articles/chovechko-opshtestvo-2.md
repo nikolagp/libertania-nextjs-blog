@@ -1,9 +1,6 @@
 ---
 title: Човечко општество (II дел) – Лудвиг фон Мизес
 date: 2022-02-03T00:00:00.000Z
-categories:
-  - блог
-  - prevodi
 tags:
   - бог
   - економија
@@ -12,6 +9,7 @@ tags:
   - религија
   - соработка
 author: Default Author
+category: преводи
 ---
 
 Текстот е превод на дел од [Ludwig von Mises - Human Action](https://mises.org/library/human-action-0)

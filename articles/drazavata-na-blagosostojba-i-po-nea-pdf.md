@@ -1,9 +1,8 @@
 ---
 title: Прочитајте ја книгата "Државата на благосостојба и по неа"
 date: 2021-01-27T00:00:00.000Z
-categories:
-  - prevodi
 author: Default Author
+category: преводи
 ---
 
 **Книгата можете да ја симнете во пдф [овде](http://libertaniabackup.local/wp-content/uploads/2021/04/Drzavata-na-blagosostojba-Tom-G.-Palmer-Libertania.pdf).**

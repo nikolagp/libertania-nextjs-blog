@@ -3,8 +3,6 @@ title: >-
   Индивидуализам и трансцендентализам: Хенри Дејвид Торо и уметноста на
   непослушноста
 date: 2020-07-12T00:00:00.000Z
-categories:
-  - блог
 tags:
   - аболицизам
   - анархизам
@@ -15,6 +13,7 @@ tags:
   - хенри-дејвид-торо
 author: Default Author
 coverImage: Bosko-Karadza-PIC-150x150.jpeg
+category: uncategorized
 ---
 
 _“There will never be a really free and enlightened state until the state comes to recognize the individual as a higher and independent power, from which all its own power and authority are derived.”_

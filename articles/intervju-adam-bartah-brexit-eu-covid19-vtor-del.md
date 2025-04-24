@@ -1,9 +1,6 @@
 ---
 title: 'Брегзит, ЕУ и предизвиците со COVID-19: Интервју со Адам Барта, втор дел'
 date: 2020-05-04T00:00:00.000Z
-categories:
-  - блог
-  - razgovori
 tags:
   - covid-19
   - виктор-орбан
@@ -13,6 +10,7 @@ tags:
   - унгарија
 author: Default Author
 coverImage: Sime-pic-150x150.jpg
+category: разговори
 ---
 
 ## Втор дел

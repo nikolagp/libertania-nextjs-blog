@@ -1,8 +1,6 @@
 ---
 title: БОЖЕСТВО ИЛИ?  - ОПИС НА ДРЖАВА
 date: 2020-10-23T00:00:00.000Z
-categories:
-  - блог
 tags:
   - врховизам
   - држава
@@ -17,6 +15,7 @@ tags:
   - фредерик-бастиат
 author: Default Author
 coverImage: Nikola-Lj-pic-150x150.jpg
+category: uncategorized
 ---
 
 ## ДРЖАВА ИЛИ? - ДЕКОНСТРУКЦИЈА, КРИТИКА И АЛТЕРНАТИВА НА ДРЖАВА

@@ -1,9 +1,6 @@
 ---
 title: 'Анатомија на државата: Како државата сама се чува'
 date: 2020-06-24T00:00:00.000Z
-categories:
-  - блог
-  - prevodi
 tags:
   - анархизам
   - анархо-капитализам
@@ -14,6 +11,7 @@ tags:
   - ротбард
 author: Default Author
 coverImage: Nikola-Lj-pic-150x150.jpg
+category: преводи
 ---
 
 ## Глава III: Како државата сама се чува

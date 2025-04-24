@@ -3,8 +3,6 @@ title: >-
   Индекс на економска слобода на Херитиџ фондацијата (Heritage Foundation) 2020
   година
 date: 2020-06-22T00:00:00.000Z
-categories:
-  - блог
 tags:
   - владеење-на-право
   - економска-слобода
@@ -14,6 +12,7 @@ tags:
   - херитиџ-фондација
 author: Default Author
 coverImage: Heritge-Slika-2.png
+category: uncategorized
 ---
 
 Индекс на економска слобода претставува индекс кој се подготвува и издава секоја година од страна на Херитиџ фондацијата ([Heritage Foundation](https://www.heritage.org/)).

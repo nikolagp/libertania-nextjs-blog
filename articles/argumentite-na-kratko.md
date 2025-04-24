@@ -1,10 +1,8 @@
 ---
 title: Аргументите на кратко
 date: 2022-05-21T00:00:00.000Z
-categories:
-  - блог
-  - prevodi
 author: Default Author
+category: преводи
 ---
 
 ## Аргументот за слобода

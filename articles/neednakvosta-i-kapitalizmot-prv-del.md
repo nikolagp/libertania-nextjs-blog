@@ -1,13 +1,12 @@
 ---
 title: Нееднаквоста и капитализмот - Прв дел
 date: 2020-04-24T00:00:00.000Z
-categories:
-  - блог
 tags:
   - капитализам
   - нееднаквост-2
 author: Default Author
 coverImage: Bojan_img_equality.png
+category: uncategorized
 ---
 
 ## **Дел 1: Еднаквоста како морален императив: врамување на дебатата**

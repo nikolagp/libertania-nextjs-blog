@@ -3,10 +3,9 @@ title: >-
   <strong>Промоција на книгата <em>Државата на благосостојба и по
   неа</em></strong>
 date: 2022-12-21T00:00:00.000Z
-categories:
-  - блог
 author: Default Author
 coverImage: IMG_4435-1-1-1024x760.jpg
+category: uncategorized
 ---
 
 На 15 декември, во кафе Порта Џезз беше организирана промоција на македонскиот превод на книгата - After the Welfare State, во организација на Либертаниа и Студенти за слобода, со подршка на Atlas Network.
