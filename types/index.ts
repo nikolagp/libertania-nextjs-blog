@@ -4,4 +4,5 @@ export type ArticleItem = {
   date: string;
   category: string;
   author: string;
+  coverImage?: string;
 };
