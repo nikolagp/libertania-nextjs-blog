@@ -23,7 +23,7 @@ const getSortedArticles = (): ArticleItem[] => {
     return {
       id,
       title: matterResult.data.title,
-      date: matterResult.data.date,
+      date: moment(matterResult.data.date, 'DD-MM-YYYY').format('MMMM Do YYYY'),
       category: matterResult.data.category,
       author: matterResult.data.author,
       coverImage: matterResult.data.coverImage,
@@ -32,14 +32,14 @@ const getSortedArticles = (): ArticleItem[] => {
 
   return allArticlesData.sort((a, b) => {
     const format = 'DD-MM-YYYY';
-    const dateOne = moment(a.date, format);
-    const dateTwo = moment(b.date, format);
+    const dateOne = moment(a.date, 'MMMM Do YYYY');
+    const dateTwo = moment(b.date, 'MMMM Do YYYY');
     if (dateOne.isBefore(dateTwo)) {
       return -1;
     } else if (dateTwo.isAfter(dateOne)) {
       return 1;
     } else {
-      0;
+      return 0;
     }
   });
 };
