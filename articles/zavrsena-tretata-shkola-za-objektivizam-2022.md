@@ -2,7 +2,7 @@
 title: Успешно завршена третата Школа за Објективизам - Џон Галт 2022
 date: 2022-06-21T00:00:00.000Z
 author: Default Author
-coverImage: osma-sesija-jgs-2022-1024x683.jpg
+coverImage: 277798763_5262983067100548_8307274211123177677_n.jpg
 category: новости
 ---
 

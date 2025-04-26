@@ -17,6 +17,7 @@ tags:
   - хипи
 author: Default Author
 category: текстови
+coverImage: FMRS-3.jpg
 ---
 
 **_Објективизам_**

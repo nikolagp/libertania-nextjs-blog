@@ -2,7 +2,7 @@
 title: Читачки клуб и дискусија по есеите на Ејн Ранд
 date: 2019-12-03T00:00:00.000Z
 author: Default Author
-coverImage: IMG_0206-1024x683.jpg
+coverImage: IMG_0203-scaled.jpg
 category: новости
 ---
 

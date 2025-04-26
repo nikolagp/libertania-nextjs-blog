@@ -2,7 +2,7 @@
 title: Инфографици од Школата за анти-авторитарни студии Стив Наумов во Скопје
 date: 2020-01-23T00:00:00.000Z
 author: Default Author
-coverImage: Инфографик-3-WEB-min-640x1024.jpg
+coverImage: Fb-Cover-bedjovi.jpg
 category: новости
 ---
 

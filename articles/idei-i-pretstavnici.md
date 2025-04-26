@@ -10,7 +10,7 @@ tags:
   - слободарство
   - социјализам
 author: Default Author
-coverImage: asrawrewrew.png
+coverImage: ideiipretstavnici.jpg
 category: текстови
 ---
 

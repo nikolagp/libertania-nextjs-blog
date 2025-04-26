@@ -8,7 +8,7 @@ tags:
   - либерализам
   - слобода
 author: Default Author
-coverImage: Sime-pic.jpg
+coverImage: Goran-Ilik.jpg
 category: uncategorized
 ---
 

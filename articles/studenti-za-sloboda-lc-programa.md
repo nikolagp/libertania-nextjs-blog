@@ -2,7 +2,7 @@
 title: Студенти за слобода
 date: 2020-07-27T00:00:00.000Z
 author: Default Author
-coverImage: sfl-macedonia.png
+coverImage: SFL.jpg
 category: новости
 ---
 

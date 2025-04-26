@@ -2,7 +2,7 @@
 title: Читачки клуб во рамки на Школата за анти-авторитарни студии
 date: 2019-06-15T00:00:00.000Z
 author: Default Author
-coverImage: IMG_20190605_195540-1024x768.jpg
+coverImage: IMG_20190605_195805.jpg
 category: новости
 ---
 

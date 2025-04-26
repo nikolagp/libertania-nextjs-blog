@@ -12,7 +12,7 @@ tags:
   - слободен-пазар
   - човекова-акција
 author: Default Author
-coverImage: Nikola-Lj-pic-150x150.jpg
+coverImage: 20150707_vonmisesfreud1380.jpg
 category: новости
 ---
 

@@ -2,7 +2,7 @@
 title: Глобализација – проклетство или благослов?
 date: 2020-10-15T00:00:00.000Z
 author: Default Author
-coverImage: Sime-pic-150x150.jpg
+coverImage: kyle-ryan-pSyfecRCBQA-unsplash-scaled.jpg
 category: uncategorized
 ---
 

@@ -14,6 +14,7 @@ tags:
   - слобода
 author: Default Author
 category: преводи
+coverImage: rothbard.jpeg.jpeg
 ---
 
 Текстот е превод на:

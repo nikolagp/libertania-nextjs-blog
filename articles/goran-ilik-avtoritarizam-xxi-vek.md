@@ -2,7 +2,7 @@
 title: Предавање на проф. Горан Илиќ на тема Авторитаризам во XXI век
 date: 2019-12-10T00:00:00.000Z
 author: Default Author
-coverImage: IMG_0060-1024x683.jpg
+coverImage: IMG_0062-scaled.jpg
 category: новости
 ---
 

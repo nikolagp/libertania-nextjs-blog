@@ -12,6 +12,7 @@ tags:
   - слободарство
 author: Default Author
 category: текстови
+coverImage: photo-1560263816-d704d83cce0f.jpeg
 ---
 
 _Cлободарство пред ХIХ век_, може да го прочитате [тука](http://libertaniabackup.local/slobodarstvo-pred-xix-vek/).

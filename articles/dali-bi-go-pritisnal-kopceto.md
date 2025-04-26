@@ -11,6 +11,7 @@ tags:
   - стратегија
 author: Default Author
 category: текстови
+coverImage: dali-bi-go-pritisnal-kopceto.jpeg
 ---
 
 ## **_Радикален аболиционистички либертаријанизам_**

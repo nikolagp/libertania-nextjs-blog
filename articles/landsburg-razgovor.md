@@ -8,6 +8,7 @@ tags:
   - стивен-ландсбург
 author: Default Author
 category: uncategorized
+coverImage: Landsburg.webp
 ---
 
 **Симон Саревски:** Како да се размислува како економист?

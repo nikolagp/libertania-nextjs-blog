@@ -7,6 +7,7 @@ tags:
   - ротбард
 author: Default Author
 category: преводи
+coverImage: Anatomy-of-the-state_Featured.jpg
 ---
 
 ## Глава II: Што е државата

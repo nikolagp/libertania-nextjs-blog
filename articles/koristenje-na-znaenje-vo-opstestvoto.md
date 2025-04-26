@@ -10,7 +10,7 @@ tags:
   - координација
   - хајек
 author: Default Author
-coverImage: ilija_vasiljevski.png
+coverImage: hayek-pat.jpg
 category: uncategorized
 ---
 

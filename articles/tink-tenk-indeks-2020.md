@@ -12,6 +12,7 @@ tags:
   - тинк-тенк
 author: Default Author
 category: индекси
+coverImage: Think-tenks.jpg
 ---
 
 ## **Тинк-тенк индексот за 2020 година и либертаријанските организации**

@@ -9,7 +9,7 @@ tags:
   - слобода
   - слободарство
 author: Default Author
-coverImage: Bosko-Karadza-PIC-1024x686.jpeg
+coverImage: bosko-naslovna.jpg
 category: uncategorized
 ---
 

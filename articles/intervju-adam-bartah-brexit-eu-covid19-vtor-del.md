@@ -9,7 +9,7 @@ tags:
   - еу-интеграција
   - унгарија
 author: Default Author
-coverImage: Sime-pic-150x150.jpg
+coverImage: Adam_Bartha_Profile.png
 category: разговори
 ---
 

@@ -4,8 +4,7 @@ title: >-
   Грузискиот парламент
 date: 2019-05-17T00:00:00.000Z
 author: Default Author
-coverImage: >-
-  https-www.huckmag.comperspectivesactivism-2inside-georgias-rave-revolution-1-1024x670.jpg
+coverImage: REUTERSDavid-Mdzinarishvili.jpeg
 category: новости
 ---
 

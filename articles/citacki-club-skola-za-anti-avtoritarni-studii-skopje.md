@@ -2,7 +2,7 @@
 title: Читачки клуб на Школата за анти-авторитарни студии во Скопје
 date: 2019-12-03T00:00:00.000Z
 author: Default Author
-coverImage: IMG_0005-1024x683.jpg
+coverImage: IMG_0007-scaled.jpg
 category: новости
 ---
 

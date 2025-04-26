@@ -9,7 +9,7 @@ tags:
   - слободарство
   - спонтан-поредок
 author: Default Author
-coverImage: Nikola-Lj-pic-150x150.jpg
+coverImage: Libertania-Ft-Template.jpg
 category: uncategorized
 ---
 

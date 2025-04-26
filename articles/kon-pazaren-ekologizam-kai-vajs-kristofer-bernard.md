@@ -10,7 +10,8 @@ tags:
   - пазарен
   - слободен-пазар
 author: Default Author
-coverImage: Sime-pic-150x150.jpg
+coverImage: >-
+  environmental-engineering-natural-environment-pollution-environmentalism-green-earth-green-environment-png-3500_1639.png
 category: uncategorized
 ---
 

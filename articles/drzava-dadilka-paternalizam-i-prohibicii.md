@@ -4,7 +4,7 @@ title: >-
   патернализам и прохибиции
 date: 2019-05-26T00:00:00.000Z
 author: Default Author
-coverImage: slika-3.gif
+coverImage: slika-4.gif
 category: новости
 ---
 

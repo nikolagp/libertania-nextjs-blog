@@ -2,7 +2,7 @@
 title: На денешен ден е роден Фридрих Хајек
 date: 2019-05-08T00:00:00.000Z
 author: Default Author
-coverImage: Popular-And-Interesting-Equality-Quotes-By-Friedrich-Hayek.jpg
+coverImage: friedrich-august-von-hayeks-quotes-2.png
 category: слободари
 ---
 

@@ -8,7 +8,7 @@ tags:
   - томас-совел
   - чикашка-еклономска-школа
 author: Default Author
-coverImage: Sime-pic-150x150.jpg
+coverImage: Sowell-weinstein-screengrab-e1593528851410.jpg
 category: uncategorized
 ---
 

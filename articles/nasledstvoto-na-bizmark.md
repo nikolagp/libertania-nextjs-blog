@@ -8,7 +8,7 @@ tags:
   - класичен-либерализам
   - слобода
 author: Default Author
-coverImage: Wernerprokla.jpg
+coverImage: Cover_ATWS_1200-628.png
 category: uncategorized
 ---
 

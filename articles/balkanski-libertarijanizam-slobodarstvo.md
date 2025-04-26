@@ -15,7 +15,7 @@ tags:
   - србија
   - хрватска
 author: Default Author
-coverImage: Nikola-Lj-pic-150x150.jpg
+coverImage: balkan-libertarian.jpeg
 category: uncategorized
 ---
 

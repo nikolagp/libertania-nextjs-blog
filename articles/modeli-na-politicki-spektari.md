@@ -14,7 +14,7 @@ tags:
   - спектар
   - триаголник
 author: Default Author
-coverImage: TCH.FIG31.3.GIF
+coverImage: featured-img.jpg
 category: текстови
 ---
 

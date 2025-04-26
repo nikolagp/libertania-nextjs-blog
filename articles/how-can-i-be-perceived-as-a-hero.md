@@ -2,7 +2,7 @@
 title: How can I be perceived as a hero?
 date: 2020-02-02T00:00:00.000Z
 author: Default Author
-coverImage: Teodora_S-150x150.jpg
+coverImage: ayn-rand.jpeg
 category: blog-en
 ---
 

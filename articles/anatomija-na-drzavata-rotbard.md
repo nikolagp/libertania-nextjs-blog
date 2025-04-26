@@ -2,7 +2,7 @@
 title: Анатомија на државата од Ротбард - превод на македонски јазик
 date: 2021-03-03T00:00:00.000Z
 author: Default Author
-coverImage: Rothbard-Cover-za-pdf-verzija-640x1024.jpg
+coverImage: Cover.jpg
 category: преводи
 ---
 

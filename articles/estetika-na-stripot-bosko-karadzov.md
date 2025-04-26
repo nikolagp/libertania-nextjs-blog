@@ -2,7 +2,7 @@
 title: Објавена „Естетика на стрипот“ од Бошко Караџов
 date: 2023-03-07T00:00:00.000Z
 author: Default Author
-coverImage: stri2.jpg
+coverImage: stri-690x460-1.jpg
 category: uncategorized
 ---
 

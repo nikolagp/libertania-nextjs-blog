@@ -10,6 +10,7 @@ tags:
   - философија
 author: Default Author
 category: текстови
+coverImage: 54596540_303.jpg
 ---
 
 ## **Академијата и државата**

@@ -12,7 +12,7 @@ tags:
   - фридман
   - хопе
 author: Default Author
-coverImage: Uj_9AfI-_400x400.jpg
+coverImage: anarhizam-capitalism.jpg
 category: текстови
 ---
 

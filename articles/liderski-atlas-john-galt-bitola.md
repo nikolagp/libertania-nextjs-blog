@@ -2,7 +2,7 @@
 title: Лидерски атлас на Школата за објективизам Џон Галт
 date: 2019-12-03T00:00:00.000Z
 author: Default Author
-coverImage: IMG_0001-1024x683.jpg
+coverImage: IMG_9996-scaled.jpg
 category: новости
 ---
 

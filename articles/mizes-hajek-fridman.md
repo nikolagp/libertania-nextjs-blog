@@ -12,6 +12,7 @@ tags:
   - чикашка-школа
 author: Default Author
 category: серијали
+coverImage: Facebook-1200-x-630.jpg
 ---
 
 ## **Либертаријанизмот и неговите школи**

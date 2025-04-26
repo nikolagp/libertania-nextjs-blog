@@ -8,7 +8,7 @@ tags:
   - монетаризам
   - слободен-пазар
 author: Default Author
-coverImage: Sime-pic-150x150.jpg
+coverImage: Milton_Friedman.jpg
 category: uncategorized
 ---
 

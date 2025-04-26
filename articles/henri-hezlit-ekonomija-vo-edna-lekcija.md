@@ -6,7 +6,7 @@ tags:
   - класичен-либерализам
   - хенри-хезлит
 author: Default Author
-coverImage: Sime-pic.jpg
+coverImage: Hazlit.jpg
 category: uncategorized
 ---
 

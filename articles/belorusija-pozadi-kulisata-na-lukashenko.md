@@ -2,7 +2,7 @@
 title: Белорусија - позади кулисата на Лукашенко
 date: 2020-08-25T00:00:00.000Z
 author: Default Author
-coverImage: Screen-Shot-2020-05-21-at-6.10.02-PM-150x150.png
+coverImage: Libertania-Ft-Template-1.jpg
 category: uncategorized
 ---
 

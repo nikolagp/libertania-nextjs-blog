@@ -16,6 +16,7 @@ tags:
   - слободарство
 author: Default Author
 category: серијали
+coverImage: drzava-ili.jpg
 ---
 
 ## Држава или? - Деконструкција, критика и алтернатива на држава

@@ -2,7 +2,7 @@
 title: Зошто цените растат за време на „криза“ и зошто тоа е „добро“
 date: 2020-04-06T00:00:00.000Z
 author: Default Author
-coverImage: Sime_Covid_Photo-by-Martin-Sanchez-on-Unsplash.jpg
+coverImage: Featured_Sime_Dontcough.jpg
 category: текстови
 ---
 

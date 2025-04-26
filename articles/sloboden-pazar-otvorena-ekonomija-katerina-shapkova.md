@@ -2,7 +2,7 @@
 title: Слободен пазар и отворена економија - предавање на Катерина Шапкова Коцевска
 date: 2020-01-11T00:00:00.000Z
 author: Default Author
-coverImage: IMG_0282-1024x683.jpg
+coverImage: IMG_0290-scaled.jpg
 category: новости
 ---
 

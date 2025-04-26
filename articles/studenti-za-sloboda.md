@@ -8,7 +8,7 @@ tags:
   - слобода
   - студенти
 author: Default Author
-coverImage: 16729465_1982282741999444_7303819745346199385_n.png
+coverImage: SFL.jpg
 category: новости
 ---
 

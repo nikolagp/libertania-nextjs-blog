@@ -12,7 +12,7 @@ tags:
   - пацифизам
   - хенри-дејвид-торо
 author: Default Author
-coverImage: Bosko-Karadza-PIC-150x150.jpeg
+coverImage: thoreau_canva.jpg
 category: uncategorized
 ---
 

@@ -2,7 +2,7 @@
 title: 'Петтата сесија беше на тема: Леви и десни авторитаризми'
 date: 2019-08-07T00:00:00.000Z
 author: Default Author
-coverImage: Sesija-5-Nikola-I.-1.jpg
+coverImage: Sesija-5-Nikola-I.-2.jpg
 category: новости
 ---
 

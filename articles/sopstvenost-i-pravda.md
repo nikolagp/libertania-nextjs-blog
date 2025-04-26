@@ -6,6 +6,7 @@ tags:
   - сопственост
 author: Default Author
 category: преводи
+coverImage: FMRS.jpg
 ---
 
 **Книга: Основи на слободното општество**

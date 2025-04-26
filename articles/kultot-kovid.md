@@ -10,7 +10,7 @@ tags:
   - слобода
   - тоталитаризам
 author: Default Author
-coverImage: Screen-Shot-2020-05-21-at-6.10.02-PM-1024x998.png
+coverImage: covid-cult.jpg
 category: uncategorized
 ---
 

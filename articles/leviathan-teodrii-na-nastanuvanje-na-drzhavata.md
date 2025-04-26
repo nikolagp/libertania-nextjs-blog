@@ -2,7 +2,7 @@
 title: ЛЕВИЈАТАН ИЛИ?  - ТЕОРИИ НА НАСТАНУВАЊЕ НА ДРЖАВА
 date: 2020-09-16T00:00:00.000Z
 author: Default Author
-coverImage: Nikola-Lj-pic-150x150.jpg
+coverImage: leviathan.jpg
 category: uncategorized
 ---
 

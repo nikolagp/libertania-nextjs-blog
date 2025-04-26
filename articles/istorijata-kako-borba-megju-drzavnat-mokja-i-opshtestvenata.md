@@ -14,6 +14,7 @@ tags:
   - ротбард
 author: Default Author
 category: преводи
+coverImage: Rothbard-Cover.jpg
 ---
 
 ## **Мaреј Ротбард – Анатомија на државата**

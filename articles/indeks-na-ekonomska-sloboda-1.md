@@ -11,7 +11,7 @@ tags:
   - права-на-сопственост
   - херитиџ-фондација
 author: Default Author
-coverImage: Heritge-Slika-2.png
+coverImage: Screen-Shot-2020-06-15-at-9.52.18-PM.png
 category: uncategorized
 ---
 

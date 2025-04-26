@@ -2,7 +2,7 @@
 title: Животот на писателот и философот Ејн Ранд - предавање на Никола Петровски
 date: 2019-12-29T00:00:00.000Z
 author: Default Author
-coverImage: IMG_0251-1024x683.jpg
+coverImage: IMG_0258-scaled.jpg
 category: новости
 ---
 

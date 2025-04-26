@@ -10,7 +10,7 @@ tags:
   - поделба-на-труд
   - слободни-пазари
 author: Default Author
-coverImage: Sime-pic-150x150.jpg
+coverImage: adamsmith-Featured.png
 category: uncategorized
 ---
 

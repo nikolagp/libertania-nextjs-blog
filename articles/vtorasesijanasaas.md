@@ -2,7 +2,7 @@
 title: Втора сесија на школата за анти-авторитарни студии
 date: 2019-04-23T00:00:00.000Z
 author: Default Author
-coverImage: goranilik2-scaled.jpg
+coverImage: GoranIlik1-scaled.jpg
 category: новости
 ---
 

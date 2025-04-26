@@ -10,7 +10,7 @@ tags:
   - класичен-либерализам
   - ротбард
 author: Default Author
-coverImage: Nikola-Lj-pic-150x150.jpg
+coverImage: Anatomy-of-the-state_Featured.jpg
 category: преводи
 ---
 

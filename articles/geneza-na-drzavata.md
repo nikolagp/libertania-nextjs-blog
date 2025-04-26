@@ -13,6 +13,7 @@ tags:
   - франц-опенхајмер
 author: Default Author
 category: слободари
+coverImage: ОтворенХајмер.jpg
 ---
 
 Франц Опенхајмер (1864-1943) е германски социолог на државата, кој иако првично завршил медицина и  бил лекар во Берлин, интересот кон општествените науки преовладеал во него, па докторирал на политичка економија и социологија. Во слободарските или либертаријанските кругови е познат по неговото дело _Државата_, оригинално _Der Staat_, а преводот на англиски јазик е [_The State: Its History and Development Viewed Sociologically_](https://cdn.mises.org/The%20State%20Its%20History%20and%20Development%20Viewed%20Sociologically_2.pdf). 

@@ -14,7 +14,7 @@ tags:
   - сецесија
   - суд
 author: Default Author
-coverImage: Nikola-Lj-pic-150x150.jpg
+coverImage: Rothbard-Cover.jpg
 category: uncategorized
 ---
 

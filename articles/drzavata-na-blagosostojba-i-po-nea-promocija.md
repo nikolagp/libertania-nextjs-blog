@@ -4,7 +4,7 @@ title: >-
   неа</em></strong>
 date: 2022-12-21T00:00:00.000Z
 author: Default Author
-coverImage: IMG_4435-1-1-1024x760.jpg
+coverImage: AWS-i-po-nea.jpg
 category: uncategorized
 ---
 

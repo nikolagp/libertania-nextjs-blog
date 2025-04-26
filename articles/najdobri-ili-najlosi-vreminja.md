@@ -8,7 +8,7 @@ tags:
   - слободен-пазар
   - чарлс-дикенс
 author: Default Author
-coverImage: Sime-pic-150x150.jpg
+coverImage: best-of-times-worst-of-times.png
 category: uncategorized
 ---
 

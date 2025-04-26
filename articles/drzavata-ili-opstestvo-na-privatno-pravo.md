@@ -15,6 +15,7 @@ tags:
   - сопственост
 author: Default Author
 category: преводи
+coverImage: anarcho-capitalism.jpg.jpeg
 ---
 
 Текстот е превод на говорот кој Ханс Херман Хопе го испорача во Мисес институтот во Бразил, 2011 година:

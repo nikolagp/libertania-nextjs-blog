@@ -10,6 +10,7 @@ tags:
   - слободарство
 author: Default Author
 category: преводи
+coverImage: August-Landmesser.jpg
 ---
 
 Текстот е превод на   

@@ -10,6 +10,7 @@ tags:
   - соработка
 author: Default Author
 category: преводи
+coverImage: networking-1.jpg
 ---
 
 Текстот е превод на дел од [Ludwig von Mises - Human Action](https://mises.org/library/human-action-0)

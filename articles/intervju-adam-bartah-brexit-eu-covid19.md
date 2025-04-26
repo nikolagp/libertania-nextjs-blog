@@ -9,7 +9,7 @@ tags:
   - маргарет-тачер
   - роналд-реган
 author: Default Author
-coverImage: Brexit_GB-EU_flag.jpg
+coverImage: Adam_Bartha_Profile.png
 category: разговори
 ---
 

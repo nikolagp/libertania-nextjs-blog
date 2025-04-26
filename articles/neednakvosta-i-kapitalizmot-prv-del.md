@@ -5,7 +5,7 @@ tags:
   - капитализам
   - нееднаквост-2
 author: Default Author
-coverImage: Bojan_img_equality.png
+coverImage: Bojan_Featured.png
 category: uncategorized
 ---
 

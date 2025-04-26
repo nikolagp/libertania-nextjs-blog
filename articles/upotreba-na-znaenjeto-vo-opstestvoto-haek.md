@@ -15,6 +15,7 @@ tags:
   - сопственост
 author: Default Author
 category: преводи
+coverImage: hayek.jpg
 ---
 
 ## I

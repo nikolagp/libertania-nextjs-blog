@@ -9,6 +9,7 @@ tags:
   - трговија
 author: Default Author
 category: преводи
+coverImage: 2.jpg
 ---
 
 ## **Книга: Основи на слободното општество**

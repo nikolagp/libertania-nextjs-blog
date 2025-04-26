@@ -14,7 +14,7 @@ tags:
   - слободарство
   - фредерик-бастиат
 author: Default Author
-coverImage: Nikola-Lj-pic-150x150.jpg
+coverImage: Nikolce-101.jpg
 category: uncategorized
 ---
 

@@ -2,7 +2,7 @@
 title: Извадоци од предавањата на Школата за анти-авторитарни студии во Скопје
 date: 2020-02-24T00:00:00.000Z
 author: Default Author
-coverImage: Martin-objava-SNSK19--1024x576.jpg
+coverImage: SAAS-Skopje-Cover-1.png
 category: новости
 ---
 

@@ -3,6 +3,7 @@ title: Улогата на економскиот раст
 date: 2020-03-31T00:00:00.000Z
 author: Default Author
 category: текстови
+coverImage: Sveden_Featured_1.jpg
 ---
 
 ## Eкономскиот раст, шведскиот пат до просперитет и лекции за Македонија

@@ -10,6 +10,7 @@ tags:
   - слободарство
 author: Default Author
 category: текстови
+coverImage: vox-1.jpg
 ---
 
 ### _Крај на идеологиите_

@@ -2,7 +2,7 @@
 title: Активист на Студенти за слобода неоправдано уапсен во Белорусија
 date: 2020-08-04T00:00:00.000Z
 author: Default Author
-coverImage: Screen-Shot-2020-05-21-at-6.10.02-PM-150x150.png
+coverImage: piotr.jpg
 category: новости
 ---
 

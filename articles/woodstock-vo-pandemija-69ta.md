@@ -8,7 +8,7 @@ tags:
   - пандемија
   - човекови-права
 author: Default Author
-coverImage: Screen-Shot-2020-05-21-at-6.10.02-PM-150x150.png
+coverImage: Kris_Featured.png
 category: uncategorized
 ---
 

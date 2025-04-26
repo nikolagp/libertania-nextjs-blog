@@ -8,7 +8,7 @@ tags:
   - слободен-пазар
   - шведска
 author: Default Author
-coverImage: Sime-pic-150x150.jpg
+coverImage: Sveden_Featured_1.jpg
 category: uncategorized
 ---
 

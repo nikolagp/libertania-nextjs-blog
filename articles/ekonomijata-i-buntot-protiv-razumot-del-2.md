@@ -9,6 +9,7 @@ tags:
   - полилогизам
 author: Default Author
 category: преводи
+coverImage: Mises-Featured.jpg.jpeg
 ---
 
 Првиот дел од _Економијата и бунтот против разумот_, прочитајте го тука.

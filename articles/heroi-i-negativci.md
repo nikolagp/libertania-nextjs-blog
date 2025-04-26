@@ -8,6 +8,7 @@ tags:
   - слобода-на-говор-2
 author: Default Author
 category: разговори
+coverImage: FMRS-12.jpg
 ---
 
 Шон Мелоун е креативен директор на [Foundation for Economic Education](https://fee.org/). Тоје креатор на серијата на видео есеи за FEE [‘Out Of Frame’](https://www.youtube.com/watch?v=pYnpnB0dj5s&list=PLa5yyWoUx0nXUeSpxDMqznYqIjjcgLKmc). Нашиот Симон Саревски поразговара со него за филмови, културата на искучување и за тоа како да се шири слободата.

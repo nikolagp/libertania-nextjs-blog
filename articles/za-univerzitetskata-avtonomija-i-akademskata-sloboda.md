@@ -2,7 +2,7 @@
 title: За универзитетската автономија и академската слобода
 date: 2020-12-17T00:00:00.000Z
 author: Default Author
-coverImage: ilija_vasiljevski.png
+coverImage: Uni-sloboda.jpeg
 category: uncategorized
 ---
 

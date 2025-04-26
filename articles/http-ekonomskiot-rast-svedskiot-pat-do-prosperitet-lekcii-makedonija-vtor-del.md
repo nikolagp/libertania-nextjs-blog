@@ -2,7 +2,7 @@
 title: Шведскиот Адам Смит - Андерс Чидениус
 date: 2020-05-07T00:00:00.000Z
 author: Default Author
-coverImage: anders_chydenius.jpg
+coverImage: Sveden_Featured_1.jpg
 category: слободари
 ---
 

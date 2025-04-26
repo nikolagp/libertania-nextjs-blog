@@ -4,7 +4,7 @@ title: >-
   слободно и просперитетно општество
 date: 2019-06-06T00:00:00.000Z
 author: Default Author
-coverImage: Sesija-7-Kokotovik-1-1.jpg
+coverImage: Sesija-7-Kokotovik-3.jpg
 category: новости
 ---
 

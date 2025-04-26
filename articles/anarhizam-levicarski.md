@@ -14,7 +14,7 @@ tags:
   - општество
   - синдикализам
 author: Default Author
-coverImage: noam-chomsky-1977-570f528edec4b.jpg?w=1200&h=630&fit=crop&crop=entropy&q=60
+coverImage: levicarski-anarhizam.jpg.jpeg
 category: текстови
 ---
 

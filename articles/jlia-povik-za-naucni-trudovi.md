@@ -3,6 +3,7 @@ title: 'Journal of Liberty and International Affairs: Повик за научн
 date: 2019-05-26T00:00:00.000Z
 author: Default Author
 category: новости
+coverImage: 61041766_2385033051517558_7293521206446129152_n.jpg
 ---
 
 Нашите партнери [Journal of Liberty and International Affairs](http://e-jlia.com/#) објавија нов повик за научни трудови за следниот број на списанието. Повикот е објавен на англиски јазик и во продолжение може да ги најдете сите потребни информации.

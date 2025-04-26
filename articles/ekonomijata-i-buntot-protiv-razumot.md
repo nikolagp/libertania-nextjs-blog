@@ -9,6 +9,7 @@ tags:
   - полилогизам
 author: Default Author
 category: преводи
+coverImage: misses-_1_-1.webp
 ---
 
 **_1\. Бунт против разумот_**

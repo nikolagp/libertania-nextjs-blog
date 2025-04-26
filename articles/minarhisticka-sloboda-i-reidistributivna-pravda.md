@@ -5,6 +5,7 @@ title: >-
 date: 2021-04-30T00:00:00.000Z
 author: Default Author
 category: текстови
+coverImage: flag-anarcho-capitalism.jpg
 ---
 
 - wikimedia.org

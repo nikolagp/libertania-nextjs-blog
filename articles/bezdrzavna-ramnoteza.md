@@ -10,6 +10,7 @@ tags:
   - слобода
 author: Default Author
 category: преводи
+coverImage: naslovna.jpg
 ---
 
 Текстот е превод на [Predrag Rajšić - Bezdržavni ekvilibrijum](http://katalaksija.com/2013/03/23/bezdrzavni-ekvilibrijum/)

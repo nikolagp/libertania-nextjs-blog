@@ -2,7 +2,7 @@
 title: Aнархизам индивидуалистички
 date: 2022-03-31T00:00:00.000Z
 author: Default Author
-coverImage: 1024px-Voltairine_de_Cleyre_%28Age_35%29.jpg
+coverImage: 277216889_1161087181390294_3047232457255389508_n.jpg
 category: текстови
 ---
 

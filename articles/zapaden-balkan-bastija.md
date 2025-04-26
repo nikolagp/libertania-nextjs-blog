@@ -4,7 +4,7 @@ date: 2021-07-06T00:00:00.000Z
 tags:
   - фредерик-бастија
 author: Default Author
-coverImage: 199722192_611152239845575_8653636956685238893_n.jpg
+coverImage: бастиат.jpg
 category: текстови
 ---
 
