@@ -11,6 +11,8 @@ interface Props {
   articles: Record<string, ArticleItem[]>;
 }
 
+const ARTICLES_PER_PAGE = 9;
+
 export default function BlogSection({ articles }: Props) {
   const categories = [
     { id: 'all', name: 'All' },
@@ -21,12 +23,26 @@ export default function BlogSection({ articles }: Props) {
   ];
 
   const [activeCategory, setActiveCategory] = useState('all');
+  const [visibleArticles, setVisibleArticles] = useState(ARTICLES_PER_PAGE);
 
   const allPosts = Object.values(articles).flat();
   const filteredPosts =
     activeCategory === 'all'
       ? allPosts
       : allPosts.filter((post) => post.category === activeCategory);
+
+  const visiblePosts = filteredPosts.slice(0, visibleArticles);
+  const hasMore = visibleArticles < filteredPosts.length;
+
+  const handleShowMore = () => {
+    setVisibleArticles((prev) => prev + ARTICLES_PER_PAGE);
+  };
+
+  // Reset visible articles when category changes
+  const handleCategoryChange = (categoryId: string) => {
+    setActiveCategory(categoryId);
+    setVisibleArticles(ARTICLES_PER_PAGE);
+  };
 
   return (
     <section className="py-12 bg-white dark:bg-gray-900">
@@ -46,7 +62,7 @@ export default function BlogSection({ articles }: Props) {
             {categories.map((category) => (
               <button
                 key={category.id}
-                onClick={() => setActiveCategory(category.id)}
+                onClick={() => handleCategoryChange(category.id)}
                 className={cn(
                   'px-4 py-2 rounded-full text-sm font-medium transition-colors font-poppins',
                   activeCategory === category.id
@@ -62,9 +78,19 @@ export default function BlogSection({ articles }: Props) {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filteredPosts.map((post) => (
+          {visiblePosts.map((post) => (
             <Link href={`/${post.id}`} key={post.id} className="group">
-              <div className=" overflow-hidden transition-all duration-200 hover:shadow-lg">
+              <article className="overflow-hidden transition-all duration-200 hover:shadow-lg">
+                {/* {post.coverImage && (
+                  <div className="relative h-48 w-full">
+                    <Image
+                      src={`/images/${post.coverImage}`}
+                      alt={post.title}
+                      fill
+                      className="object-cover"
+                    />
+                  </div>
+                )} */}
                 <div className="p-5 space-y-2">
                   <div className="flex items-center text-xs text-gray-600 dark:text-gray-400 font-poppins">
                     <span className="capitalize">{post.category}</span>
@@ -74,11 +100,42 @@ export default function BlogSection({ articles }: Props) {
                   <h3 className="font-bold text-xl group-hover:text-amber-700 transition-colors font-cormorantGaramond text-gray-900 dark:text-white">
                     {post.title}
                   </h3>
+                  {/* <div className="pt-2">
+                    <span className="text-sm font-medium text-amber-700 dark:text-amber-500 inline-flex items-center font-poppins">
+                      Read more
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        className="ml-1 h-4 w-4"
+                      >
+                        <path d="M5 12h14" />
+                        <path d="m12 5 7 7-7 7" />
+                      </svg>
+                    </span>
+                  </div> */}
                 </div>
-              </div>
+              </article>
             </Link>
           ))}
         </div>
+
+        {hasMore && (
+          <div className="flex justify-center mt-8">
+            <button
+              onClick={handleShowMore}
+              className="px-6 py-3 text-sm font-medium text-white bg-amber-700 rounded-lg hover:bg-amber-800 dark:bg-amber-600 dark:hover:bg-amber-700 transition-colors font-poppins"
+            >
+              Show More
+            </button>
+          </div>
+        )}
       </div>
     </section>
   );
