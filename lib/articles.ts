@@ -10,7 +10,9 @@ import type { ArticleItem } from '@/types';
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
 const getSortedArticles = (): ArticleItem[] => {
-  const fileNames = fs.readdirSync(articlesDirectory);
+  const fileNames = fs
+    .readdirSync(articlesDirectory)
+    .filter((fileName) => fileName.endsWith('.md'));
 
   const allArticlesData = fileNames.map((fileName) => {
     const id = fileName.replace(/\.md$/, '');
