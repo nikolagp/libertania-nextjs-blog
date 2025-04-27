@@ -60,6 +60,10 @@ export const getCategorisedArticles = (): Record<string, ArticleItem[]> => {
   return categorisedArticles;
 };
 
+export const getAllArticles = (): ArticleItem[] => {
+  return getSortedArticles();
+};
+
 export const getArticleData = async (id: string): Promise<any> => {
   const fullPath = path.join(articlesDirectory, `${id}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf-8');
