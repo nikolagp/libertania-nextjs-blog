@@ -1,9 +1,8 @@
 ---
 title: Протести во Грузија против нацрт законот за „Странски агенти“
 date: 2023-03-09T00:00:00.000Z
-categories:
-  - блог
 coverImage: shutterstock_1845271858-800x450-1.jpg
+category: uncategorized
 ---
 
 Илјадници луѓе излегоа на улиците во Тбилиси, Грузија, на 7-ми март со цел да го икажат своето незадоволство и да [протестираат против контроверзниот нацрт закон](https://www.aljazeera.com/news/2023/3/8/foreign-agents-law-why-are-protests-taking-place-in) за „странски агенти“. 

@@ -1,12 +1,10 @@
 ---
 title: Симболите на слободата
 date: 2020-04-21T00:00:00.000Z
-categories:
-  - блог
-  - tekstovi
 tags:
   - симболи
 coverImage: Boshko_Simboli_Featured.png
+category: текстови
 ---
 
 > “Symbols are powerful because they are the visible signs of invisible realities.”  

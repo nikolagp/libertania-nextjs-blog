@@ -13,7 +13,7 @@ tags:
   - хенри-дејвид-торо
 author: Default Author
 coverImage: thoreau_canva.jpg
-category: uncategorized
+category: текстови
 ---
 
 _“There will never be a really free and enlightened state until the state comes to recognize the individual as a higher and independent power, from which all its own power and authority are derived.”_
@@ -72,6 +72,6 @@ _П.С. Дополнително за влијанието на филозофи
 
 ![Bosko Karadza](http://libertaniabackup.local/wp-content/uploads/2020/04/Bosko-Karadza-PIC-150x150.jpeg)
 
-**Автор на текстот:**   
-доц. д-р Бошко Караџов,   
+**Автор на текстот:** 
+доц. д-р Бошко Караџов, 
 научен соработник на Либертаниа

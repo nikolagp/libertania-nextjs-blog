@@ -1,10 +1,8 @@
 ---
 title: 'Повик за учесници: Џон Галт Битола'
 date: 2019-10-07T00:00:00.000Z
-categories:
-  - блог
-  - novosti
 coverImage: Cropped-poster.jpg
+category: новости
 ---
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScKjnvkPZB2BiO0jpEpP0KaGR8rUgU7xkyhWnEeLjIvtFtQrw/viewform?embedded=true" width="640" height="1089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

@@ -13,7 +13,7 @@ tags:
   - политика
   - ротбард
 author: Default Author
-category: uncategorized
+category: преводи
 coverImage: Rothbard-Cover.jpg
 ---
 
@@ -51,6 +51,6 @@ coverImage: Rothbard-Cover.jpg
 
 \[40\] Ibid, стр. 161. За застапувањето на тргувањето со непријателот, од водичите на Американската револиција, види Joseph Dorfman, _The Economic Mind in American Civilization_ (New York: Viking Press, 1946), vol. 1, стр. 210-11-
 
-Превод:  
-Никола Љ. Илиевски,    
+Превод:
+Никола Љ. Илиевски,  
 Либертаниа

@@ -15,7 +15,7 @@ tags:
   - суд
 author: Default Author
 coverImage: Rothbard-Cover.jpg
-category: uncategorized
+category: преводи
 ---
 
 ## **Мaреј Ротбард - Анатомија на државата**
@@ -74,7 +74,7 @@ category: uncategorized
 
 <figcaption>
 
-  
+
 Американска декларација за независност (www.wallpapercave.com)
 
 </figcaption>
@@ -127,6 +127,6 @@ James Burnham, Congress and the American Tradition (Chicago: Regnery, 1959), с�
 
 ![](http://libertaniabackup.local/wp-content/uploads/2020/03/Nikola-Lj-pic-150x150.jpg)
 
-Превод:  
-Никола Љ. Илиевски,    
+Превод:
+Никола Љ. Илиевски,  
 Либертаниа

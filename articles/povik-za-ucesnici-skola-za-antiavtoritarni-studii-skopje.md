@@ -1,10 +1,8 @@
 ---
 title: 'Повик за учесници: Школа за анти-авторитарни студии (Скопје)'
 date: 2019-10-09T00:00:00.000Z
-categories:
-  - блог
-  - novosti
 coverImage: Banner-SAAS.png
+category: новости
 ---
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-vVJH2q9WtrjiU5Y8BuGqXhZ-kn5c_ECHTMW1hZiSr_QZEg/viewform?embedded=true" width="640" height="1049" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

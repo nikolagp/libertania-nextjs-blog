@@ -1,10 +1,8 @@
 ---
 title: Академски анархизам
 date: 2022-05-27T00:00:00.000Z
-categories:
-  - блог
-  - tekstovi
 coverImage: anarchism-academic.jpg
+category: текстови
 ---
 
 ## Aнархизам и наука?

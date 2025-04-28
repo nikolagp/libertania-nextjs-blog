@@ -1,10 +1,8 @@
 ---
 title: 'ОБЈЕКТИВИЗАМ И СЛОБОДА: ИНТЕРВЈУ СО ТАЛ ТСФАНИ'
 date: 2020-03-24T00:00:00.000Z
-categories:
-  - блог
-  - razgovori
 coverImage: Tal_Pic_Featured.jpg
+category: разговори
 ---
 
 _Тал Тсфани е извршен директор на Ејн Ренд Институт (_[_Ayn Rand Institute_](https://aynrand.org/)_), ко-основач на Ејн Ренд Центар Израел (_[_Ayn Rand Center Israel_](https://www.aynrand.org.il/aboutus)_) и автор е на книгата за деца Софи (_[_Sophie_](https://www.amazon.com/Sophie-Tal-Tsfany/dp/197784555X)_). На овогодинешната објективистичка конференција_ [_AynRandCon Europe 2020_](http://libertaniabackup.local/se-odrza-studentskata-konferencija-aynrandcon2020/) _која се одржа во Варшава од 14 до 16 февруари, нашиот координатор Симон Саревски поразговара со него за објективизмот, класичниот либерализам и предизвиците на слободата во 21-виот век._

@@ -1,9 +1,6 @@
 ---
 title: Општо за анархизам
 date: 2022-02-14T00:00:00.000Z
-categories:
-  - блог
-  - tekstovi
 tags:
   - анархизам
   - анархија
@@ -11,6 +8,7 @@ tags:
   - бездржавие
   - општество
 coverImage: anarchy-in-zie-UK-scaled.jpg
+category: текстови
 ---
 
 ## **_Меинстрим погледи кон анархизам_**

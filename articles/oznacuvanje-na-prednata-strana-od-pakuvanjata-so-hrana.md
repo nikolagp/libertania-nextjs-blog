@@ -1,10 +1,8 @@
 ---
 title: 'Вебинар: Front-Of-Pack Nutrition Labelling'
 date: 2022-02-23T00:00:00.000Z
-categories:
-  - блог
-  - novosti
 coverImage: AEC-monthly.jpg
+category: новости
 ---
 
 Повелете во 17:00 часот на вебинарот [Front-Of-Pack Nutrition Labelling](https://www.facebook.com/events/633799874540218/?ref=newsfeed) организиран од страна на [Austrian Economics Center](https://www.austriancenter.com/) на кој нашиот Симон Саревски ќе биде модератор.

@@ -1,10 +1,8 @@
 ---
 title: <strong>Слободарство во ХIХ век</strong>
 date: 2022-07-18T00:00:00.000Z
-categories:
-  - блог
-  - tekstovi
 coverImage: photo-1560263816-d704d83cce0f.jpeg
+category: текстови
 ---
 
 **Текстот - _Cлободарство пред ХIХ век_, може да го прочитате [тука](http://libertaniabackup.local/slobodarstvo-pred-xix-vek/?fbclid=IwAR2RTcpfNzhBrCzsQKZMjW8As9uJRHwe5ieZwEFDD2bmtWJnsrf_w6mZTcI).**

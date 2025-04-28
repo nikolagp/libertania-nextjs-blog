@@ -7,7 +7,7 @@ tags:
   - инфлација-2
   - стивен-ландсбург
 author: Default Author
-category: uncategorized
+category: разговори
 coverImage: Landsburg.webp
 ---
 

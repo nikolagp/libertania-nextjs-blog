@@ -1,8 +1,6 @@
 ---
 title: 'Она што се гледа и она што не се гледа: Даноци'
 date: 2020-05-31T00:00:00.000Z
-categories:
-  - блог
 tags:
   - бастиат
   - даноци
@@ -10,6 +8,7 @@ tags:
   - класичен-либерализам
   - слободен-пазар
 coverImage: Бастиат-Она-што-се-гледа-и-она-што-не-се-гледа-кавер-фб.jpg
+category: преводи
 ---
 
 ## **Глава 3: Даноци**
@@ -52,12 +51,12 @@ coverImage: Бастиат-Она-што-се-гледа-и-она-што-не-�
 
 Прочитатјте ги останатите глави од „Она што се гледа и она што не се гледа“ на Фредерик Бастиат:
 
-[Глава 1: Скршениот прозорец](http://libertaniabackup.local/ona-sto-se-gleda-i-ona-sto-ne-se-gleda-skrseniot-prozorec/)  
+[Глава 1: Скршениот прозорец](http://libertaniabackup.local/ona-sto-se-gleda-i-ona-sto-ne-se-gleda-skrseniot-prozorec/)
 [Глава 2: Распуштањето на армијата](http://libertaniabackup.local/ona-sto-se-gleda-i-ona-sto-ne-se-gleda-glava-2/?fbclid=IwAR0KMynIZBU7-pAUgOijoR7Zmn5jJzbsIMBFNxo2Kwr2g9viMVZ40BWuRq8)
 
 Превoд на [Frederic Bastiat - That Which is Seen, and That Which is Not Seen](http://bastiat.org/en/twisatwins.html) од англиски јазик :
 
 ![Simon Sarevski](images/Sime-pic-150x150.jpg)
 
-Симон Саревски  
+Симон Саревски
 Либертаниа и [Студенти за слобода](https://www.facebook.com/sfl.macedonia)

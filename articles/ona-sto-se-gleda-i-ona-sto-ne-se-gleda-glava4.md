@@ -1,9 +1,8 @@
 ---
 title: 'Она што се гледа и она што не се гледа: Театри и уметност'
 date: 2020-07-21T00:00:00.000Z
-categories:
-  - блог
 coverImage: Bastiat-Cover.png
+category: uncategorized
 ---
 
 ## **Глава 4: Театри и уметност**

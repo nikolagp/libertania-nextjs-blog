@@ -1,10 +1,8 @@
 ---
 title: 'Слободарска вечер: Слобода на говор v.s. Говор на омраза'
 date: 2019-12-03T00:00:00.000Z
-categories:
-  - блог
-  - novosti
 coverImage: Liberty-evening-2-correct-scaled.jpg
+category: новости
 ---
 
 ![](images/Liberty-evening-2.1-correct-300x200.jpg)

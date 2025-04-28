@@ -15,13 +15,13 @@ tags:
   - фредерик-бастиат
 author: Default Author
 coverImage: Nikolce-101.jpg
-category: uncategorized
+category: текстови
 ---
 
 ## ДРЖАВА ИЛИ? - ДЕКОНСТРУКЦИЈА, КРИТИКА И АЛТЕРНАТИВА НА ДРЖАВА
 
-### **ГЛАВА 3: БОЖЕСТВО ИЛИ?**  
-**\- ОПИС НА ДРЖАВА**  
+### **ГЛАВА 3: БОЖЕСТВО ИЛИ?**
+**\- ОПИС НА ДРЖАВА**
 
 #### **1\. Етимологија на држава**
 
@@ -53,9 +53,9 @@ category: uncategorized
 
  Тоа значи дека во рамките на едно општество само државата е единствена и ексклузивна организација која може и смее да употреби физичка сила (насилство) и најчесто во форма на закана со употреба на сила, со цел исполнување на нормираното и планираното. И секако, она што државата ја прави различна од една вооружена криминална банда е легитимитетот, кој ја претпоставува прифаќањето или _премолчната и свесната согласноста_ и вербата на (барем мнозинството\[22\] од) луѓето кои живееат на дадената територија, за ваквата ексклузивност и посебна улога на државата. 
 
-Со помош на политичката моќ, или моќта на _легитимното_ насилство, модерната држава се впрегнува во активности на: заштита, регулирање, ограничување, одданочување, забранување, казнување, одземање, субвенционирање, планирање и тоа во областите на одржување на мир, ред и поредок, остварување на _правда_, заштита на права и _слободи_, функционирање на економија, здравствени, образовни, социјални, инфраструктурни и други услуги на грижа.  
+Со помош на политичката моќ, или моќта на _легитимното_ насилство, модерната држава се впрегнува во активности на: заштита, регулирање, ограничување, одданочување, забранување, казнување, одземање, субвенционирање, планирање и тоа во областите на одржување на мир, ред и поредок, остварување на _правда_, заштита на права и _слободи_, функционирање на економија, здравствени, образовни, социјални, инфраструктурни и други услуги на грижа.
 
-#### **5\. Слободарски описи на Држава**  
+#### **5\. Слободарски описи на Држава**
 
 Политичките науки, философија и социологија на држава како научни дисциплини, во принцип го земаат феноменот на држава\[23\] здраво за готово и го поставуваат како некоја општествена аксиома и зациментирана општествена реалност. Или како општествена јавна платформа, која е од сите за сите, низ која се (и треба да се) адресирани поголемиот број, а дотолку повеќе посериозните општествени проблеми. Слично, ја следат _колективистичката традиција_, на некаков солидарен или колективен израз на потребата од централен авторитет, под закана од општествен хаос.\[24\]
 
@@ -206,7 +206,7 @@ category: uncategorized
 
 \[43\] Matt Palmer - [Rothbard and the Nature of the State](https://mises.org/library/rothbard-and-nature-state) (2010, mises.org)
 
-\[44\] Hans-Herman Hoppe - [Democracy: The God That Failed, The Economics and Politics of Monarchy, Democracy and Natural Order](https://ia801600.us.archive.org/5/items/HoppeDemocracyTheGodThatFailed/Hoppe_Democracy_The_God_That_Failed.pdf) (2001, Transaction Publishers), стр. 45   
+\[44\] Hans-Herman Hoppe - [Democracy: The God That Failed, The Economics and Politics of Monarchy, Democracy and Natural Order](https://ia801600.us.archive.org/5/items/HoppeDemocracyTheGodThatFailed/Hoppe_Democracy_The_God_That_Failed.pdf) (2001, Transaction Publishers), стр. 45 
 
 #### **Литература:**
 
@@ -264,7 +264,7 @@ Robert Cooper - [The Postmodern State and the World Order](https://fpc.org.uk/pu
 
 Steven Loyal - [Bourdieu’s Theory of the State A Critical Introduction](https://drive.google.com/file/d/1FfdsYXyvSNp75Ldruqswf70BQKlmlEYd/view) (2017, _Palgrave Macmillan_);
 
-Tom G. Palmer - [_After the Welfare State_](https://www.mannwest.com/wp-content/uploads/2017/01/After-the-Welfare-State-PDF.pdf?fbclid=IwAR0ZRvwrKb9hMbUv0UxmyCivdmLWL3muprUBgf0u-LNB3kSqAnmR4_1wQ1E) (2012, Atlas Network & Students for Liberty);  
+Tom G. Palmer - [_After the Welfare State_](https://www.mannwest.com/wp-content/uploads/2017/01/After-the-Welfare-State-PDF.pdf?fbclid=IwAR0ZRvwrKb9hMbUv0UxmyCivdmLWL3muprUBgf0u-LNB3kSqAnmR4_1wQ1E) (2012, Atlas Network & Students for Liberty);
 
 [Christ Pantocrator](https://en.wikipedia.org/wiki/Christ_Pantocrator) (en.wikipedia.org/wiki/Christ\_Pantocrator)
 
@@ -282,6 +282,6 @@ Tom G. Palmer - [_After the Welfare State_](https://www.mannwest.com/wp-content/
 
 ![](http://libertaniabackup.local/wp-content/uploads/2020/03/Nikola-Lj-pic-150x150.jpg)
 
-**Автор**  
-**Никола Илиевски**  
+**Автор**
+**Никола Илиевски**
 Либертаниа
