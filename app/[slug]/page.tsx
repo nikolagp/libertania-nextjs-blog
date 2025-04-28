@@ -6,17 +6,26 @@ import type { ArticleItem } from '@/types';
 import TableOfContents from '@/components/TableOfContents';
 import RelatedPosts from '@/components/RelatedPosts';
 
-const Article = async ({ params }: { params: { slug: string } }) => {
+interface PageProps {
+  params: Promise<{
+    slug: string;
+  }>;
+}
+
+export default async function Article({ params }: PageProps) {
+  // Extract slug from params to avoid multiple accesses
+  const { slug } = await params;
+
   const [articleData, allArticles] = await Promise.all([
-    getArticleData(params.slug),
-    getAllArticles()
+    getArticleData(slug),
+    getAllArticles(),
   ]);
-  
+
   // Get related posts from the same category, excluding the current article
   const relatedPosts = allArticles
-    .filter((post): post is ArticleItem => 
-      post.category === articleData.category && 
-      post.id !== params.slug
+    .filter(
+      (post): post is ArticleItem =>
+        post.category === articleData.category && post.id !== slug
     )
     .slice(0, 3);
 
@@ -36,8 +45,8 @@ const Article = async ({ params }: { params: { slug: string } }) => {
             <div className="max-w-3xl">
               {/* Back Link */}
               <div className="mb-8">
-                <Link 
-                  href={'/'} 
+                <Link
+                  href={'/'}
                   className="inline-flex items-center text-sm text-gray-600 dark:text-gray-400 hover:text-amber-700 dark:hover:text-amber-500 transition-colors font-poppins"
                 >
                   <ArrowLeftIcon className="w-4 h-4 mr-2" />
@@ -78,7 +87,9 @@ const Article = async ({ params }: { params: { slug: string } }) => {
 
               {/* Article Content */}
               <article className="prose prose-lg dark:prose-invert max-w-none font-poppins mb-12">
-                <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml }} />
+                <div
+                  dangerouslySetInnerHTML={{ __html: articleData.contentHtml }}
+                />
               </article>
 
               {/* Related Posts */}
@@ -89,6 +100,4 @@ const Article = async ({ params }: { params: { slug: string } }) => {
       </div>
     </div>
   );
-};
-
-export default Article;
+}

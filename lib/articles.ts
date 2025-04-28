@@ -51,10 +51,16 @@ export const getCategorisedArticles = (): Record<string, ArticleItem[]> => {
   const categorisedArticles: Record<string, ArticleItem[]> = {};
 
   sortedArticles.forEach((article) => {
-    if (!categorisedArticles[article.category]) {
-      categorisedArticles[article.category] = [];
+    // Only add articles with valid categories
+    if (
+      typeof article.category === 'string' &&
+      article.category.trim() !== ''
+    ) {
+      if (!categorisedArticles[article.category]) {
+        categorisedArticles[article.category] = [];
+      }
+      categorisedArticles[article.category].push(article);
     }
-    categorisedArticles[article.category].push(article);
   });
 
   return categorisedArticles;

@@ -74,7 +74,7 @@ export default function BlogSection({ articles }: Props) {
               </button>
             ))}
           </div>
-          <ThemeToggle />
+          {/* <ThemeToggle /> */}
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -132,7 +132,7 @@ export default function BlogSection({ articles }: Props) {
               onClick={handleShowMore}
               className="px-6 py-3 text-sm font-medium text-white bg-amber-700 rounded-lg hover:bg-amber-800 dark:bg-amber-600 dark:hover:bg-amber-700 transition-colors font-poppins"
             >
-              Show More
+              Прикажи повеќе
             </button>
           </div>
         )}

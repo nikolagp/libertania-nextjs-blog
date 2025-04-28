@@ -6,13 +6,16 @@ import {
   NavbarToggle,
 } from 'flowbite-react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export function NavbarComponent() {
   return (
     <Navbar fluid rounded>
       <NavbarBrand as={Link} href="https://flowbite-react.com">
-        <img
+        <Image
           src="/favicon.svg"
+          width={24}
+          height={36}
           className="mr-3 h-6 sm:h-9"
           alt="Flowbite React Logo"
         />

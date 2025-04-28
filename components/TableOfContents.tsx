@@ -21,10 +21,12 @@ export default function TableOfContents() {
     const elements = Array.from(article.querySelectorAll('h2, h3'));
     elements.forEach((element) => {
       if (!element.id) {
-        element.id = element.textContent?.toLowerCase()
-          .replace(/[^a-z0-9]/g, '-')
-          .replace(/-+/g, '-')
-          .replace(/^-|-$/g, '') || '';
+        element.id =
+          element.textContent
+            ?.toLowerCase()
+            .replace(/[^a-z0-9]/g, '-')
+            .replace(/-+/g, '-')
+            .replace(/^-|-$/g, '') || '';
       }
     });
 
@@ -48,7 +50,7 @@ export default function TableOfContents() {
       },
       {
         rootMargin: '-100px 0% -66%',
-        threshold: 1.0
+        threshold: 1.0,
       }
     );
 
@@ -62,7 +64,10 @@ export default function TableOfContents() {
   }
 
   return (
-    <nav aria-label="Table of contents" className="w-full bg-gray-50 dark:bg-gray-800/50 rounded-lg p-4">
+    <nav
+      aria-label="Table of contents"
+      className="w-full bg-gray-50 dark:bg-gray-800/50 rounded-lg p-4"
+    >
       <h2 className="text-lg font-bold mb-4 font-cormorantGaramond text-gray-900 dark:text-white">
         Table of Contents
       </h2>
@@ -72,7 +77,7 @@ export default function TableOfContents() {
             key={heading.id}
             className={cn(
               'transition-colors',
-              heading.level === 2 ? 'ml-0' : 'ml-4',
+              heading.level === 2 ? 'ml-0' : 'ml-4'
             )}
           >
             <a

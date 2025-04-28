@@ -1,6 +1,6 @@
-const fs = require('fs');
-const path = require('path');
-const matter = require('gray-matter');
+import * as fs from 'fs';
+import * as path from 'path';
+import matter from 'gray-matter';
 
 const articlesDirectory = path.join(process.cwd(), 'articles');
 
@@ -10,10 +10,12 @@ const updateMetadata = () => {
     const entries = fs.readdirSync(dir, { withFileTypes: true });
 
     const files = entries
-      .filter((file) => !file.isDirectory() && file.name.endsWith('.md'))
-      .map((file) => path.join(dir, file.name));
+      .filter(
+        (file: fs.Dirent) => !file.isDirectory() && file.name.endsWith('.md')
+      )
+      .map((file: fs.Dirent) => path.join(dir, file.name));
 
-    const folders = entries.filter((folder) => folder.isDirectory());
+    const folders = entries.filter((folder: fs.Dirent) => folder.isDirectory());
 
     for (const folder of folders) {
       files.push(...getAllMarkdownFiles(path.join(dir, folder.name)));
