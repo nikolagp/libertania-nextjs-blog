@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { Cormorant_Garamond, Poppins } from 'next/font/google';
+import { Cormorant_Garamond, Roboto } from 'next/font/google';
 import { ThemeProvider } from 'next-themes';
 import Navbar from '@/components/Navbar';
 import './globals.css';
@@ -10,10 +10,10 @@ const cormorantGaramond = Cormorant_Garamond({
   weight: ['400'],
 });
 
-const poppins = Poppins({
+const poppins = Roboto({
   subsets: ['latin'],
   variable: '--font-poppins',
-  weight: ['400', '600'],
+  weight: ['400'],
 });
 
 export const metadata: Metadata = {

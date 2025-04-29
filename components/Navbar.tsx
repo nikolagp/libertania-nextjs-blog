@@ -27,25 +27,25 @@ export default function Navbar() {
             href="/"
             className="font-poppins text-sm font-medium text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
           >
-            Home
+            Почетна
           </Link>
           <Link
             href="/about"
             className="font-poppins text-sm font-medium text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
           >
-            About Us
+            За нас
           </Link>
           <Link
             href="/blog"
             className="font-poppins text-sm font-medium text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
           >
-            Blog
+            Блог
           </Link>
           <Link
             href="/contact"
             className="font-poppins text-sm font-medium text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
           >
-            Contact
+            Контакт
           </Link>
         </nav>
 

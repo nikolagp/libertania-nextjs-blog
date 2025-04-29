@@ -6,6 +6,10 @@
   @apply flex flex-col gap-3 font-poppins text-lg tracking-wide mb-20;
 }
 
+.article > p {
+  @apply leading-relaxed mb-6;
+}
+
 .article > h1 {
   @apply font-cormorantGaramond text-4xl text-center tracking-tight;
 }

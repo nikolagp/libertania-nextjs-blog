@@ -15,7 +15,7 @@ const ARTICLES_PER_PAGE = 9;
 
 export default function BlogSection({ articles }: Props) {
   const categories = [
-    { id: 'all', name: 'All' },
+    { id: 'all', name: 'Сите' },
     ...Object.keys(articles).map((category) => ({
       id: category,
       name: category,
