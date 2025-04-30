@@ -3,14 +3,40 @@ export default function AboutPage() {
     <main className="py-12 bg-white dark:bg-gray-900">
       <div className="container max-w-4xl mx-auto px-4">
         <h1 className="text-4xl font-bold mb-8 text-gray-900 dark:text-white font-cormorantGaramond">
-          About Us
+          За здружението
         </h1>
         <div className="prose prose-lg dark:prose-invert max-w-none font-poppins">
           <p className="text-gray-600 dark:text-gray-400">
-            Welcome to Libertania, a platform dedicated to exploring and promoting ideas of liberty and freedom.
+            Либертаниа – Центар за современа политика е невладино, непрофитно и
+            непартиско здружение на граѓани, формирано во 2015 година од
+            студенти на Правниот факултет во Битола.
+          </p>
+          <h2>Мисија</h2>
+          <p className="text-gray-600 dark:text-gray-400">
+            Нашата мисија е промоција и образование за идеите на лична слобода,
+            слободен пазар и слободно општество, преку активно вклучување на
+            млади лица и поттикнување на слободарска соработка
+          </p>
+          <h2>Визија</h2>
+          <p className="text-gray-600 dark:text-gray-400">
+            Нашата визија е да поттикнеме создавање на слободарска заедница во
+            која ќе се разменуваат и споделуваат идеите на лична слобода и
+            слободно општество, која е дел од светското слободарско движење.
+          </p>
+          <h2>Цел</h2>
+          <p className="text-gray-600 dark:text-gray-400">
+            Наша цел е промена на сегашното во послободно општество, на
+            мирољубив начин со помош на образование и создавање на слободарски
+            заедници
+          </p>
+          <h2>Идеја</h2>
+          <p className="text-gray-600 dark:text-gray-400">
+            Наша идеа е слободно општество втемелено на мирољубива соработка,
+            владеење на право, слободен пазар и ограничена, одговорна или
+            алтернатива на држава.
           </p>
         </div>
       </div>
     </main>
-  )
+  );
 }

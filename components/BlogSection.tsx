@@ -49,16 +49,16 @@ export default function BlogSection({ articles }: Props) {
       <div className="container space-y-8 max-w-7xl mx-auto px-4">
         <div className="space-y-4 text-center">
           <h2 className="text-3xl font-bold tracking-tight font-cormorantGaramond text-gray-900 dark:text-white">
-            Libertania Blog
+            Либертаријански блог
           </h2>
           <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto font-poppins">
-            Stay updated with our latest articles, stories, and insights about
-            liberty and freedom.
+            Информирајте се за слободарските идеи, можностите за промовирање на
+            идеите и за настаните кои ги организираме
           </p>
         </div>
 
         <div className="flex justify-between items-center">
-          <div className="flex flex-wrap gap-2 md:gap-4">
+          <div className="flex items-center flex-wrap gap-2 md:gap-4">
             {categories.map((category) => (
               <button
                 key={category.id}

@@ -13,7 +13,7 @@ export default function RelatedPosts({ posts }: RelatedPostsProps) {
   return (
     <section className="border-t border-gray-200 dark:border-gray-800 pt-12">
       <h2 className="text-2xl font-bold mb-6 font-cormorantGaramond text-gray-900 dark:text-white">
-        Related Articles
+        Слични објави
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {posts.map((post) => (
@@ -32,7 +32,7 @@ export default function RelatedPosts({ posts }: RelatedPostsProps) {
                 <span>{post.date}</span>
               </div>
               <div className="mt-4 flex items-center text-amber-700 dark:text-amber-500 text-sm font-medium">
-                Read article
+                Прочитај повеќе
                 <ArrowRightIcon className="w-4 h-4 ml-1" />
               </div>
             </article>

@@ -14,36 +14,36 @@ export default function Navbar() {
             <Image
               src="/images/LogoBlackCirclewhitelogo.png"
               alt="Libertania Logo"
-              width={40}
-              height={40}
+              width={60}
+              height={60}
               className="rounded-md"
             />
           </Link>
         </div>
 
         {/* Middle section - Navigation */}
-        <nav className="flex-1 hidden md:flex items-center justify-center space-x-8">
+        <nav className="flex-1 hidden md:flex items-center justify-center space-x-8 text-1xl">
           <Link
             href="/"
-            className="font-poppins text-sm font-medium text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
+            className=" text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
           >
             Почетна
           </Link>
           <Link
             href="/about"
-            className="font-poppins text-sm font-medium text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
+            className=" text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
           >
             За нас
           </Link>
           <Link
             href="/blog"
-            className="font-poppins text-sm font-medium text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
+            className=" text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
           >
             Блог
           </Link>
           <Link
             href="/contact"
-            className="font-poppins text-sm font-medium text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
+            className=" text-gray-700 transition-colors hover:text-amber-700 dark:text-gray-200 dark:hover:text-amber-500"
           >
             Контакт
           </Link>
@@ -53,7 +53,7 @@ export default function Navbar() {
         <div className="flex-1 flex items-center justify-end space-x-4">
           <select
             className="bg-transparent border-none text-sm font-medium text-gray-700 dark:text-gray-200 focus:outline-none focus:ring-0"
-            defaultValue="en"
+            defaultValue="mk"
           >
             <option value="en">EN</option>
             <option value="mk">MK</option>
